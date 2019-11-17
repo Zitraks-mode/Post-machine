@@ -1,0 +1,6 @@
+﻿  TaIIT.cpp
+C:\Users\qniki\source\repos\TaIIT\TaIIT\TaIIT.cpp(17,29): warning C4101: 'm': unreferenced local variable
+C:\Users\qniki\source\repos\TaIIT\TaIIT\TaIIT.cpp(17,12): warning C4101: 'num2': unreferenced local variable
+C:\Users\qniki\source\repos\TaIIT\TaIIT\TaIIT.cpp(17,18): warning C4101: 'num3': unreferenced local variable
+C:\Users\qniki\source\repos\TaIIT\TaIIT\TaIIT.cpp(75): warning C4715: 'check': not all control paths return a value
+  TaIIT.vcxproj -> C:\Users\qniki\source\repos\TaIIT\Debug\TaIIT.exe
